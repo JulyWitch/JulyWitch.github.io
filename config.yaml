@@ -19,9 +19,9 @@ params:
   title: "Sajad Abdollahi"
   description: "Sajad's Personal Web Page"
   keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi"]
-  author: Me
+  author: Sajad
   # author: ["Me", "You"] # multiple authors
-  images: ["<link or path of image for opengraph, twitter-cards>"]
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -36,7 +36,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -48,28 +48,6 @@ params:
     apple_touch_icon: "icons/apple-icon-180x180.png"
     safari_pinned_tab: "icons/favicon.ico"
 
-  label:
-    text: "Home"
-
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: "Sajad Abdollahi"
-    subtitle: "Flutter Developer"
-    imageUrl: "/images/sajad.jpeg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: "Sajad"
-    buttons:
-      - name: Posts
-        url: posts
-      # - name: Tags
-      #   url: tags
-
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
 
   socialIcons:
     - name: linkedin
@@ -80,7 +58,6 @@ params:
       url: "https://github.com/JulyWitch"
     - name: telegram
       url: "https://t.me/julywitch"
-      
 
   analytics:
     google:
@@ -110,16 +87,10 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
-      weight: 20
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
@@ -133,3 +104,65 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    profileMode:
+      enabled: true # needs to be explicitly set
+      title: "Sajad Abdollahi"
+      subtitle: "Flutter Developer"
+      imageUrl: "/images/sajad.jpeg"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: "Sajad"
+      buttons:
+        - name: Posts
+          url: posts
+
+    label:
+      text: "Home"
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+
+  fa:
+    languageName: "fa"
+    languageAltTitle: "Farsi"
+    languagedirection: rtl
+    weight: 2
+    profileMode:
+      enabled: true # needs to be explicitly set
+      title: "سجاد عبداللهی"
+      subtitle: "توسعه دهنده فلاتر"
+      imageUrl: "/images/sajad.jpeg"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: "Sajad"
+      buttons:
+        - name: پست ها
+          url: posts
+        # - name: Tags
+        #   url: tags
+    label:
+      text: "خانه"
+    title: سجاد عبداللهی
+    menu:
+      main:
+        - name: "پست ها"
+          url: posts
+          weight: 1
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
