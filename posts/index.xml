@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sajad Abdollahi on Ananke</title>
-    <link>http://julywitch.github.io/</link>
-    <description>Recent content in Sajad Abdollahi on Ananke</description>
+    <title>Posts on Ananke</title>
+    <link>http://julywitch.github.io/posts/</link>
+    <description>Recent content in Posts on Ananke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://julywitch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="http://julywitch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 Necessarily VS Code extensions for a developer</title>
       <link>http://julywitch.github.io/posts/vscode-plugins/</link>
@@ -27,15 +27,6 @@ If you are using VS Code you probably already have installed common extensions l
       <guid>http://julywitch.github.io/posts/4-things/</guid>
       <description>When it comes to mobile UI development, There are several things you need to consider in order to increase accessbility and make your app more stable.
 1. Text </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://julywitch.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://julywitch.github.io/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
     </item>
     
   </channel>
