@@ -14,8 +14,7 @@
       <guid>https://julywitch.github.io/posts/portfolio/</guid>
       <description>Here, You can see some of the projects I&amp;rsquo;ve developed.
 Libraries Animated Snack Bar (Open Source) A Flutter library to show beautiful snackbars easily. This library uses overlays to show snackbars and animate them on Android, iOS, and Web.
-View on pub.dev
-Slidable Text Field (Open Source) My first library which was inspired from Nussi Einhorn deisgn. I made it using render box to get familiar with the way Flutter renders it&amp;rsquo;s widgets.</description>
+View on pub.dev Slidable Text Field (Open Source) My first library which was inspired from Nussi Einhorn deisgn. I made it using render box to get familiar with the way Flutter renders it&amp;rsquo;s widgets.</description>
     </item>
     
     <item>
