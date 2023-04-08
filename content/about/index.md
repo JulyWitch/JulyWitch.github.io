@@ -1,11 +1,21 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "The Flutter Guy"
 menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/ofogh.jpg" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+
+My name is Sajad, and my personality type is INTP, which you can read about [here](https://www.16personalities.com/intp-personality).
+I have been passionate about coding ever
+since I was 12 years old. Two of my hobbies are playing chess and watching movies.
+
+As long as I can remember, I have been drawn to solving challenging problems, particularly those that are difficult to solve. I first became interested in programming because I wanted to understand how it worked, and I continue to learn something new every day.
+
+As a Flutter developer, I have had the opportunity to work on a wide range of projects, from mobile apps to web applications, and I have come to appreciate the versatility and flexibility of the platform. Whether I am developing a simple app or a complex enterprise-level solution, I always strive to deliver the best possible user experience and to create a product that people will love to use.
+
+In addition to my technical skills and expertise, I am also highly collaborative and enjoy working closely with my clients to translate their vision into a working product. I take great pride in delivering high-quality work on time and on budget, and I am always looking for new challenges and opportunities to grow and develop my skills.
+
+If you are looking for a passionate, dedicated, and highly skilled Flutter developer who can help you bring your ideas to life, then I would love to hear from you. Whether you need a simple app or a complex enterprise-level solution, I am confident that I have the skills and expertise needed to deliver the results you are looking for.
