@@ -10,7 +10,8 @@ My name is Sajad, and my personality type is INTP, which you can read about [her
 I have been passionate about coding ever
 since I was 12 years old. Two of my hobbies are playing chess and watching movies.
 
-As long as I can remember, I have been drawn to solving challenging problems, particularly those that are difficult to solve. I first became interested in programming because I wanted to understand how it worked, and I continue to learn something new every day.
+As long as I can remember, I have been drawn to solving challenging problems, particularly those that are difficult to solve.
+I first became interested in programming because I wanted to understand how it worked, and now I continue to learn something new every day.
 
 As a Flutter developer, I have had the opportunity to work on a wide range of projects, from mobile apps to web applications, and I have come to appreciate the versatility and flexibility of the platform. Whether I am developing a simple app or a complex enterprise-level solution, I always strive to deliver the best possible user experience and to create a product that people will love to use.
 
