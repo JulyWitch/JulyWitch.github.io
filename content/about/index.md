@@ -6,6 +6,8 @@ menu:
     weight: 1
 ---
 
+{{< figure src="/images/ofogh.jpg" >}}
+
 My name is Sajad, and my personality type is INTP, which you can read about [here](https://www.16personalities.com/intp-personality).
 I have been passionate about coding ever
 since I was 12 years old. Two of my hobbies are playing chess and watching movies.
