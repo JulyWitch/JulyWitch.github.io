@@ -6,26 +6,28 @@ date: 2022-03-02T12:00:00-05:00
 Here, You can see some of the projects I've developed.
 
 ## Libraries
+
 ### Animated Snack Bar (Open Source)
 
 A Flutter library to show beautiful snackbars easily.
 This library uses overlays to show snackbars and animate them on Android, iOS, and Web.
 
-[View on pub.dev](https://pub.dev/packages/animated_snack_bar)
+- [View on pub.dev](https://pub.dev/packages/animated_snack_bar)
 
 ### Slidable Text Field (Open Source)
 
 My first library which was inspired from Nussi Einhorn deisgn.
 I made it using render box to get familiar with the way Flutter renders it's widgets.
 
-[View on pub.dev](https://pub.dev/packages/slidable_text_field)
+- [View on pub.dev](https://pub.dev/packages/slidable_text_field)
 
 ## Applications
 
 ### Kidsbond
 
-[Google Play](https://play.google.com/store/apps/details?id=com.socialbasedeeplink.kidsbond&hl=en&gl=US)
-[App Store](https://apps.apple.com/us/app/kidsbond/id1589599791)
+- [Google Play](https://play.google.com/store/apps/details?id=com.socialbasedeeplink.kidsbond&hl=en&gl=US)
+
+- [App Store](https://apps.apple.com/us/app/kidsbond/id1589599791)
 
 A social media application, Made for parents to connect them together.
 
@@ -41,8 +43,7 @@ including Chat, Post explorer, Events, Search, Username checking and matching sy
 - Google Places API
 - Apple and Google Login
 
-
-### InitCommerce
+### Init Commerce
 
 A development level ecommerce app with strategical Domain-Driven-Deisgn strcuture and multiple features including:
 
@@ -53,14 +54,15 @@ A development level ecommerce app with strategical Domain-Driven-Deisgn strcutur
 - Pin address on map and also using GPS
 - Rating and comments for each product
 
+{{< figure src="/images/posts/portfolio/init-commerce-5.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/init-commerce-21.png" width="300px" class="portfolio-image" >}}
 
-{{< detail-tag "Show Shots" >}}
+{{< detail-tag "Show more shots" >}}
 
 {{< figure src="/images/posts/portfolio/init-commerce-1.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-2.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-3.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-4.png" width="300px" class="portfolio-image" >}}
-{{< figure src="/images/posts/portfolio/init-commerce-5.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-6.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-7.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-8.png" width="300px" class="portfolio-image" >}}
@@ -72,7 +74,6 @@ A development level ecommerce app with strategical Domain-Driven-Deisgn strcutur
 {{< figure src="/images/posts/portfolio/init-commerce-14.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-15.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-16.png" width="300px" class="portfolio-image" >}}
-{{< figure src="/images/posts/portfolio/init-commerce-17.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-18.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-19.png" width="300px" class="portfolio-image" >}}
 {{< figure src="/images/posts/portfolio/init-commerce-20.png" width="300px" class="portfolio-image" >}}
@@ -85,8 +86,6 @@ A simple pinterest clone to work with customized tab bars
 
 {{< video src="pinterest" width="300px" >}}
 
-
-
 ### Vira Music
 
 A music player with ability to sync with other mobiles through WiFi and hotspot,
@@ -97,4 +96,15 @@ allowing for mul;ple devices to play music simultaneously.
 - Websocket
 - Wifi-Hotspot accessing
 
-{{< video src="pinterest" width="300px" >}}
+{{< figure src="/images/posts/portfolio/vm1.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm4.png" width="300px" class="portfolio-image" >}}
+
+{{< detail-tag "Show more shots" >}}
+
+{{< figure src="/images/posts/portfolio/vm2.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm3.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm5.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm6.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm7.png" width="300px" class="portfolio-image" >}}
+{{< figure src="/images/posts/portfolio/vm8.png" width="300px" class="portfolio-image" >}}
+{{< /detail-tag >}}
