@@ -3,7 +3,7 @@ title: "Portfolio"
 date: 2022-03-02T12:00:00-05:00
 ---
 
-Here, You can see some of the projects I've developed.
+Here, you can explore some of the projects I have developed.
 
 ## Libraries
 
