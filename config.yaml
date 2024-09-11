@@ -25,7 +25,6 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -38,7 +37,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -47,8 +45,6 @@ params:
     favicon32x32: "icons/favicon-32x32.png"
     apple_touch_icon: "icons/apple-icon-180x180.png"
     safari_pinned_tab: "icons/favicon.ico"
-
-
   socialIcons:
     - name: linkedin
       url: "https://www.linkedin.com/in/sajad-abdollahi-viracode/"
@@ -109,7 +105,7 @@ languages:
   en:
     languageName: "English"
     weight: 1
-    profileMode:
+    params:
       enabled: true # needs to be explicitly set
       title: "Sajad Abdollahi"
       subtitle: "Flutter Developer"
@@ -120,9 +116,8 @@ languages:
       buttons:
         - name: Posts
           url: posts
-
-    label:
-      text: "Home"
+      label:
+        text: "Home"
     menu:
       main:
         - identifier: posts
@@ -132,11 +127,11 @@ languages:
 
   fa:
     languageName: "fa"
-    languageAltTitle: "Farsi"
     languagedirection: rtl
     weight: 2
-    profileMode:
+    params:
       enabled: true # needs to be explicitly set
+      languageAltTitle: "Farsi"
       title: "سجاد عبداللهی"
       subtitle: "توسعه دهنده فلاتر"
       imageUrl: "/images/sajad.jpeg"
@@ -148,8 +143,8 @@ languages:
           url: posts
         # - name: Tags
         #   url: tags
-    label:
-      text: "خانه"
+      label:
+        text: "خانه"
     title: سجاد عبداللهی
     menu:
       main:
