@@ -1,7 +1,7 @@
-baseURL: "https://julywitch.github.io/"
+baseURL: "https://sajadabdollahi.ir"
 title: "Sajad Abdollahi"
 paginate: 5
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -18,18 +18,16 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Sajad Abdollahi"
   description: "Sajad's Personal Web Page"
-  keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi"]
+  keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi", "July Witch", JulyWitch]
   author: Sajad
-  # author: ["Me", "You"] # multiple authors
-  # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
@@ -38,8 +36,6 @@ params:
   showtoc: true
   tocopen: false
   assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
     favicon: "icons/favicon.ico"
     favicon16x16: "icons/favicon-16x16.png"
     favicon32x32: "icons/favicon-32x32.png"
@@ -68,13 +64,6 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/julywitch/julywitch.github.io/tree/master/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -82,6 +71,7 @@ params:
     distance: 1000
     threshold: 0.4
     minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
     # - identifier: tags
     #   name: tags
@@ -107,8 +97,9 @@ languages:
     weight: 1
     params:
       enabled: true # needs to be explicitly set
-      title: "Sajad Abdollahi"
-      subtitle: "Flutter Developer"
+      homeInfoParams:
+        Title: Sajad Abdollahi
+        Content: Software Engineer
       imageUrl: "/images/sajad.jpeg"
       imageWidth: 120
       imageHeight: 120
@@ -132,8 +123,9 @@ languages:
     params:
       enabled: true # needs to be explicitly set
       languageAltTitle: "Farsi"
-      title: "سجاد عبداللهی"
-      subtitle: "توسعه دهنده فلاتر"
+      homeInfoParams:
+        Title: سجاد عبداللهی
+        Content: مهندس نرم‌افزار
       imageUrl: "/images/sajad.jpeg"
       imageWidth: 120
       imageHeight: 120
@@ -161,3 +153,8 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+
+sitemap:
+  changefreq: daily
+  filename: sitemap.xml
+  priority: 0.5
