@@ -5,6 +5,7 @@
     <link>https://julywitch.github.io/posts/</link>
     <description>Recent content in Posts on Sajad Abdollahi</description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://julywitch.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio</title>
@@ -12,9 +13,17 @@
       <pubDate>Wed, 02 Mar 2022 12:00:00 -0500</pubDate>
       
       <guid>https://julywitch.github.io/posts/portfolio/</guid>
-      <description>Here, you can explore some of the projects I have developed.
-Libraries Animated Snack Bar (Open Source) A Flutter library to show beautiful snackbars easily. This library uses overlays to show snackbars and animate them on Android, iOS, and Web.
-View on pub.dev Slidable Text Field (Open Source) My first library which was inspired from Nussi Einhorn deisgn. I made it using render box to get familiar with the way Flutter renders it&amp;rsquo;s widgets.</description>
+      <description>&lt;p&gt;Here, you can explore some of the projects I have developed.&lt;/p&gt;
+&lt;h2 id=&#34;libraries&#34;&gt;Libraries&lt;/h2&gt;
+&lt;h3 id=&#34;animated-snack-bar-open-source&#34;&gt;Animated Snack Bar (Open Source)&lt;/h3&gt;
+&lt;p&gt;A Flutter library to show beautiful snackbars easily.
+This library uses overlays to show snackbars and animate them on Android, iOS, and Web.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/animated_snack_bar&#34;&gt;View on pub.dev&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;slidable-text-field-open-source&#34;&gt;Slidable Text Field (Open Source)&lt;/h3&gt;
+&lt;p&gt;My first library which was inspired from Nussi Einhorn deisgn.
+I made it using render box to get familiar with the way Flutter renders it&amp;rsquo;s widgets.&lt;/p&gt;</description>
     </item>
     
     <item>
