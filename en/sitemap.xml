@@ -81,11 +81,31 @@
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sajadabdollahi.ir/fa/tags/vscode/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sajadabdollahi.ir/tags/vscode/"
+                />
   </url><url>
     <loc>https://sajadabdollahi.ir/tags/vscode-plugins/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sajadabdollahi.ir/fa/tags/vscode-plugins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sajadabdollahi.ir/tags/vscode-plugins/"
+                />
   </url><url>
     <loc>https://sajadabdollahi.ir/about/</loc>
     <changefreq>daily</changefreq>
