@@ -7,7 +7,6 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-
 googleAnalytics: UA-123-45
 
 minify:
@@ -20,6 +19,7 @@ params:
   description: "Sajad's Personal Web Page"
   keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi", "July Witch", JulyWitch]
   author: Sajad
+  cover: 
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -94,55 +94,39 @@ params:
 languages:
   en:
     languageName: "English"
-    weight: 1
+    weight: 2
     params:
       enabled: true # needs to be explicitly set
       homeInfoParams:
         Title: Sajad Abdollahi
         Content: Software Engineer
-      imageUrl: "/images/sajad.jpeg"
-      imageWidth: 120
-      imageHeight: 120
-      imageTitle: "Sajad"
-      buttons:
-        - name: Posts
-          url: posts
-      label:
-        text: "Home"
     menu:
       main:
         - identifier: posts
           name: Posts
           url: /posts/
           weight: 10
+        - name: Search
+          url: search
 
   fa:
     languageName: "fa"
     languagedirection: rtl
-    weight: 2
+    weight: 1
     params:
       enabled: true # needs to be explicitly set
       languageAltTitle: "Farsi"
       homeInfoParams:
         Title: سجاد عبداللهی
         Content: مهندس نرم‌افزار
-      imageUrl: "/images/sajad.jpeg"
-      imageWidth: 120
-      imageHeight: 120
-      imageTitle: "Sajad"
-      buttons:
-        - name: پست ها
-          url: posts
-        # - name: Tags
-        #   url: tags
-      label:
-        text: "خانه"
     title: سجاد عبداللهی
     menu:
       main:
         - name: "پست ها"
           url: posts
           weight: 1
+        - name: جستجو
+          url: search
 outputs:
     home:
         - HTML
