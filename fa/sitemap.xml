@@ -2,66 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://julywitch.github.io/fa/posts/</loc>
+    <loc>https://sajadabdollahi.ir/fa/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/posts/"
+                href="https://sajadabdollahi.ir/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/posts/"
+                href="https://sajadabdollahi.ir/fa/posts/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/fa/</loc>
+    <loc>https://sajadabdollahi.ir/fa/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/"
+                href="https://sajadabdollahi.ir/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/"
+                href="https://sajadabdollahi.ir/fa/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/fa/categories/</loc>
+    <loc>https://sajadabdollahi.ir/fa/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/categories/"
+                href="https://sajadabdollahi.ir/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/categories/"
+                href="https://sajadabdollahi.ir/fa/categories/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/fa/series/</loc>
+    <loc>https://sajadabdollahi.ir/fa/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/series/"
+                href="https://sajadabdollahi.ir/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/series/"
+                href="https://sajadabdollahi.ir/fa/series/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/fa/tags/</loc>
+    <loc>https://sajadabdollahi.ir/fa/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/tags/"
+                href="https://sajadabdollahi.ir/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/tags/"
+                href="https://sajadabdollahi.ir/fa/tags/"
+                />
+  </url><url>
+    <loc>https://sajadabdollahi.ir/fa/search/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sajadabdollahi.ir/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sajadabdollahi.ir/fa/search/"
                 />
   </url>
 </urlset>

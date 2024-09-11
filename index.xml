@@ -2,47 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sajad Abdollahi</title>
-    <link>https://julywitch.github.io/</link>
+    <link>https://sajadabdollahi.ir/</link>
     <description>Recent content on Sajad Abdollahi</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Mar 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://julywitch.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Portfolio</title>
-      <link>https://julywitch.github.io/posts/portfolio/</link>
-      <pubDate>Wed, 02 Mar 2022 12:00:00 -0500</pubDate>
-      
-      <guid>https://julywitch.github.io/posts/portfolio/</guid>
-      <description>&lt;p&gt;Here, you can explore some of the projects I have developed.&lt;/p&gt;
-&lt;h2 id=&#34;libraries&#34;&gt;Libraries&lt;/h2&gt;
-&lt;h3 id=&#34;animated-snack-bar-open-source&#34;&gt;Animated Snack Bar (Open Source)&lt;/h3&gt;
-&lt;p&gt;A Flutter library to show beautiful snackbars easily.
-This library uses overlays to show snackbars and animate them on Android, iOS, and Web.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://pub.dev/packages/animated_snack_bar&#34;&gt;View on pub.dev&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;slidable-text-field-open-source&#34;&gt;Slidable Text Field (Open Source)&lt;/h3&gt;
-&lt;p&gt;My first library which was inspired from Nussi Einhorn deisgn.
-I made it using render box to get familiar with the way Flutter renders it&amp;rsquo;s widgets.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://sajadabdollahi.ir/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 Necessarily VS Code extensions for a developer</title>
-      <link>https://julywitch.github.io/posts/vscode-plugins/</link>
+      <link>https://sajadabdollahi.ir/posts/vscode-plugins/</link>
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      
-      <guid>https://julywitch.github.io/posts/vscode-plugins/</guid>
+      <guid>https://sajadabdollahi.ir/posts/vscode-plugins/</guid>
       <description>Add more functionalities to your VS Code</description>
     </item>
-    
+    <item>
+      <title>NLP basics</title>
+      <link>https://sajadabdollahi.ir/posts/nlp-brief/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/posts/nlp-brief/</guid>
+      <description>&lt;p&gt;This guide provides an overview of text classification, exploring essential methods such as Naive Bayes, Logistic Regression, and Hidden Markov Models (HMMs). We’ll also cover critical concepts like n-gram models, embedding methods like TF-IDF and Word2Vec, and evaluation metrics including precision, recall, and F-measure. Whether you’re a beginner seeking to grasp the basics or an experienced practitioner looking to refine your skills, this guide will equip you with the knowledge to effectively tackle text classification tasks.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://julywitch.github.io/about/</link>
+      <link>https://sajadabdollahi.ir/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://julywitch.github.io/about/</guid>
+      <guid>https://sajadabdollahi.ir/about/</guid>
       <description>The Flutter Guy</description>
     </item>
-    
   </channel>
 </rss>

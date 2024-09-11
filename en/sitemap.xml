@@ -2,81 +2,135 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://julywitch.github.io/posts/portfolio/</loc>
-    <lastmod>2022-03-02T12:00:00-05:00</lastmod>
+    <loc>https://sajadabdollahi.ir/posts/vscode-plugins/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://julywitch.github.io/</loc>
-    <lastmod>2022-03-02T12:00:00-05:00</lastmod>
+    <loc>https://sajadabdollahi.ir/tags/cheatsheet/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sajadabdollahi.ir/tags/machine-learning/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sajadabdollahi.ir/tags/natural-language-processing/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sajadabdollahi.ir/tags/nlp/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sajadabdollahi.ir/posts/nlp-brief/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://sajadabdollahi.ir/posts/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/"
+                href="https://sajadabdollahi.ir/fa/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/"
+                href="https://sajadabdollahi.ir/posts/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/posts/vscode-plugins/</loc>
+    <loc>https://sajadabdollahi.ir/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
-  </url><url>
-    <loc>https://julywitch.github.io/posts/</loc>
-    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/posts/"
+                href="https://sajadabdollahi.ir/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/posts/"
+                href="https://sajadabdollahi.ir/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/tags/</loc>
+    <loc>https://sajadabdollahi.ir/tags/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/tags/"
+                href="https://sajadabdollahi.ir/fa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/tags/"
+                href="https://sajadabdollahi.ir/tags/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/tags/vscode/</loc>
+    <loc>https://sajadabdollahi.ir/tags/vscode/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://julywitch.github.io/tags/vscode-plugins/</loc>
+    <loc>https://sajadabdollahi.ir/tags/vscode-plugins/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://julywitch.github.io/about/</loc>
+    <loc>https://sajadabdollahi.ir/about/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url><url>
-    <loc>https://julywitch.github.io/categories/</loc>
+    <loc>https://sajadabdollahi.ir/categories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/categories/"
+                href="https://sajadabdollahi.ir/fa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/categories/"
+                href="https://sajadabdollahi.ir/categories/"
                 />
   </url><url>
-    <loc>https://julywitch.github.io/series/</loc>
+    <loc>https://sajadabdollahi.ir/search/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://julywitch.github.io/fa/series/"
+                href="https://sajadabdollahi.ir/fa/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://julywitch.github.io/series/"
+                href="https://sajadabdollahi.ir/search/"
+                />
+  </url><url>
+    <loc>https://sajadabdollahi.ir/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://sajadabdollahi.ir/fa/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sajadabdollahi.ir/series/"
                 />
   </url>
 </urlset>
