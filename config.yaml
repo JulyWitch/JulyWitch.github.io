@@ -91,23 +91,6 @@ params:
 #         style: monokai
 
 languages:
-  en:
-    languageName: "English"
-    weight: 2
-    params:
-      enabled: true # needs to be explicitly set
-      homeInfoParams:
-        Title: Sajad Abdollahi
-        Content: Software Engineer
-    menu:
-      main:
-        - identifier: posts
-          name: Posts
-          url: /posts/
-          weight: 10
-        - name: Search
-          url: search
-
   fa:
     languageName: "fa"
     languagedirection: rtl
@@ -126,6 +109,23 @@ languages:
           weight: 1
         - name: جستجو
           url: search
+  en:
+    languageName: "English"
+    weight: 2
+    params:
+      enabled: true # needs to be explicitly set
+      homeInfoParams:
+        Title: Sajad Abdollahi
+        Content: Software Engineer
+    menu:
+      main:
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        - name: Search
+          url: search
+
 outputs:
     home:
         - HTML
