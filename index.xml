@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sajad Abdollahi</title>
+    <title>سجاد عبداللهی</title>
     <link>https://sajadabdollahi.ir/</link>
-    <description>Recent content on Sajad Abdollahi</description>
+    <description>Recent content on سجاد عبداللهی</description>
     <generator>Hugo -- 0.134.2</generator>
-    <language>en</language>
+    <language>fa</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>3 Necessarily VS Code extensions for a developer</title>
-      <link>https://sajadabdollahi.ir/posts/vscode-plugins/</link>
+      <title>اهمیت طراحی خوب در برنامه نویسی و اصل ETC</title>
+      <link>https://sajadabdollahi.ir/posts/etc-principle/</link>
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/posts/vscode-plugins/</guid>
-      <description>Add more functionalities to your VS Code</description>
-    </item>
-    <item>
-      <title>NLP basics</title>
-      <link>https://sajadabdollahi.ir/posts/nlp-brief/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/posts/nlp-brief/</guid>
-      <description>&lt;p&gt;This guide provides an overview of text classification, exploring essential methods such as Naive Bayes, Logistic Regression, and Hidden Markov Models (HMMs). We’ll also cover critical concepts like n-gram models, embedding methods like TF-IDF and Word2Vec, and evaluation metrics including precision, recall, and F-measure. Whether you’re a beginner seeking to grasp the basics or an experienced practitioner looking to refine your skills, this guide will equip you with the knowledge to effectively tackle text classification tasks.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://sajadabdollahi.ir/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sajadabdollahi.ir/about/</guid>
-      <description>The Flutter Guy</description>
+      <guid>https://sajadabdollahi.ir/posts/etc-principle/</guid>
+      <description>&lt;p&gt;طراحی یکی از جنبه‌های کلیدی و جذاب در دنیای فناوری و هنر است. دیگه همه جا میتونین مطالبی پیدا کنین راجب معماری و طراحی نرم افزار، اما توی این مطلب میخوام اصلی رو بگم که خیلی از از اصول دیگه از اون مشتق میشن.&lt;/p&gt;
+&lt;p&gt;بیاین ابتدا به یه موضوع مهم بپردازیم: هدف از داشتن یه طراحی خوب چیست؟ بنظر من طراحی خوب چیزی هست که راحت بشه تغییرش داد و در برابر نیاز‌های مختلف کسب و کار انعطاف پذیر باشه.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

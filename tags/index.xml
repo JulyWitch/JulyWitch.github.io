@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on Sajad Abdollahi</title>
+    <title>Tags on سجاد عبداللهی</title>
     <link>https://sajadabdollahi.ir/tags/</link>
-    <description>Recent content in Tags on Sajad Abdollahi</description>
+    <description>Recent content in Tags on سجاد عبداللهی</description>
     <generator>Hugo -- 0.134.2</generator>
-    <language>en</language>
+    <language>fa</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cheatsheet</title>
-      <link>https://sajadabdollahi.ir/tags/cheatsheet/</link>
+      <title>Etc</title>
+      <link>https://sajadabdollahi.ir/tags/etc/</link>
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/cheatsheet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Machine-Learning</title>
-      <link>https://sajadabdollahi.ir/tags/machine-learning/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Natural-Language-Processing</title>
-      <link>https://sajadabdollahi.ir/tags/natural-language-processing/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nlp</title>
-      <link>https://sajadabdollahi.ir/tags/nlp/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/nlp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vscode</title>
-      <link>https://sajadabdollahi.ir/tags/vscode/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/vscode/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Vscode-Plugins</title>
-      <link>https://sajadabdollahi.ir/tags/vscode-plugins/</link>
-      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/tags/vscode-plugins/</guid>
+      <guid>https://sajadabdollahi.ir/tags/etc/</guid>
       <description></description>
     </item>
   </channel>

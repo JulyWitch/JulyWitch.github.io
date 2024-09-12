@@ -2,101 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sajadabdollahi.ir/fa/tags/etc/</loc>
+    <loc>https://sajadabdollahi.ir/tags/etc/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/tags/</loc>
+    <loc>https://sajadabdollahi.ir/tags/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://sajadabdollahi.ir/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
                 href="https://sajadabdollahi.ir/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/tags/"
-                />
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/posts/etc-principle/</loc>
+    <loc>https://sajadabdollahi.ir/posts/etc-principle/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/posts/</loc>
+    <loc>https://sajadabdollahi.ir/posts/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://sajadabdollahi.ir/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
                 href="https://sajadabdollahi.ir/posts/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/posts/"
-                />
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/</loc>
+    <loc>https://sajadabdollahi.ir/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://sajadabdollahi.ir/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
                 href="https://sajadabdollahi.ir/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/"
-                />
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/categories/</loc>
+    <loc>https://sajadabdollahi.ir/categories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://sajadabdollahi.ir/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
                 href="https://sajadabdollahi.ir/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/categories/"
-                />
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/series/</loc>
+    <loc>https://sajadabdollahi.ir/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
+                href="https://sajadabdollahi.ir/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
                 href="https://sajadabdollahi.ir/series/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/series/"
-                />
   </url><url>
-    <loc>https://sajadabdollahi.ir/fa/search/</loc>
+    <loc>https://sajadabdollahi.ir/search/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sajadabdollahi.ir/search/"
+                href="https://sajadabdollahi.ir/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="https://sajadabdollahi.ir/fa/search/"
+                href="https://sajadabdollahi.ir/search/"
                 />
   </url>
 </urlset>

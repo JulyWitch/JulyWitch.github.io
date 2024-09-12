@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Sajad Abdollahi</title>
+    <link>https://sajadabdollahi.ir/en/posts/</link>
+    <description>Recent content in Posts on Sajad Abdollahi</description>
+    <generator>Hugo -- 0.134.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://sajadabdollahi.ir/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Necessarily VS Code extensions for a developer</title>
+      <link>https://sajadabdollahi.ir/en/posts/vscode-plugins/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/posts/vscode-plugins/</guid>
+      <description>Add more functionalities to your VS Code</description>
+    </item>
+    <item>
+      <title>NLP basics</title>
+      <link>https://sajadabdollahi.ir/en/posts/nlp-brief/</link>
+      <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/posts/nlp-brief/</guid>
+      <description>&lt;p&gt;This guide provides an overview of text classification, exploring essential methods such as Naive Bayes, Logistic Regression, and Hidden Markov Models (HMMs). We’ll also cover critical concepts like n-gram models, embedding methods like TF-IDF and Word2Vec, and evaluation metrics including precision, recall, and F-measure. Whether you’re a beginner seeking to grasp the basics or an experienced practitioner looking to refine your skills, this guide will equip you with the knowledge to effectively tackle text classification tasks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
