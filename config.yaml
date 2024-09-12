@@ -19,7 +19,6 @@ params:
   description: "Sajad's Personal Web Page"
   keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi", "July Witch", JulyWitch]
   author: Sajad
-  cover: 
   DateFormat: "January 2, 2006"
   defaultTheme: auto
   disableThemeToggle: false
@@ -61,8 +60,8 @@ params:
 
   cover:
     hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   fuseOpts:
     isCaseSensitive: false
