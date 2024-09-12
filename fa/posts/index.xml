@@ -9,11 +9,12 @@
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/fa/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>سلام دنیا</title>
-      <link>https://sajadabdollahi.ir/fa/posts/hello-world/</link>
+      <title>اهمیت طراحی خوب در برنامه نویسی و اصل ETC</title>
+      <link>https://sajadabdollahi.ir/fa/posts/etc-principle/</link>
       <pubDate>Thu, 02 Mar 2017 12:00:00 -0500</pubDate>
-      <guid>https://sajadabdollahi.ir/fa/posts/hello-world/</guid>
-      <description>اولین پست من</description>
+      <guid>https://sajadabdollahi.ir/fa/posts/etc-principle/</guid>
+      <description>&lt;p&gt;طراحی یکی از جنبه‌های کلیدی و جذاب در دنیای فناوری و هنر است. دیگه همه جا میتونین مطالبی پیدا کنین راجب معماری و طراحی نرم افزار، اما توی این مطلب میخوام اصلی رو بگم که خیلی از از اصول دیگه از اون مشتق میشن.&lt;/p&gt;
+&lt;p&gt;بیاین ابتدا به یه موضوع مهم بپردازیم: هدف از داشتن یه طراحی خوب چیست؟ بنظر من طراحی خوب چیزی هست که راحت بشه تغییرش داد و در برابر نیاز‌های مختلف کسب و کار انعطاف پذیر باشه.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
