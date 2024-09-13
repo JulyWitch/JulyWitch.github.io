@@ -81,9 +81,9 @@ languages:
     params:
       languageAltTitle: "Farsi"
       homeInfoParams:
-        Title: سجاد عبداللهی
+        Title: محمدسجاد عبداللهی
         Content: مهندس نرم‌افزار
-    title: سجاد عبداللهی
+    title: محمدسجاد عبداللهی
     menu:
       main:
         - name: "پست ها"
