@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on سجاد عبداللهی</title>
+    <title>Tags on محمدسجاد عبداللهی</title>
     <link>https://sajadabdollahi.ir/tags/</link>
-    <description>Recent content in Tags on سجاد عبداللهی</description>
+    <description>Recent content in Tags on محمدسجاد عبداللهی</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>fa</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 11:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>آموزش نرم‌افزار</title>
+      <link>https://sajadabdollahi.ir/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/</link>
+      <pubDate>Thu, 12 Sep 2024 11:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>آموزشی</title>
+      <link>https://sajadabdollahi.ir/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</link>
+      <pubDate>Thu, 12 Sep 2024 11:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>برنامه‌نویسی</title>
+      <link>https://sajadabdollahi.ir/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</link>
+      <pubDate>Thu, 12 Sep 2024 11:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/tags/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%86%D9%88%DB%8C%D8%B3%DB%8C/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Etc</title>
       <link>https://sajadabdollahi.ir/tags/etc/</link>
