@@ -22,12 +22,5 @@
       <guid>https://sajadabdollahi.ir/en/posts/nlp-brief/</guid>
       <description>&lt;p&gt;This guide provides an overview of text classification, exploring essential methods such as Naive Bayes, Logistic Regression, and Hidden Markov Models (HMMs). We’ll also cover critical concepts like n-gram models, embedding methods like TF-IDF and Word2Vec, and evaluation metrics including precision, recall, and F-measure. Whether you’re a beginner seeking to grasp the basics or an experienced practitioner looking to refine your skills, this guide will equip you with the knowledge to effectively tackle text classification tasks.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>About</title>
-      <link>https://sajadabdollahi.ir/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sajadabdollahi.ir/en/about/</guid>
-      <description>The Flutter Guy</description>
-    </item>
   </channel>
 </rss>

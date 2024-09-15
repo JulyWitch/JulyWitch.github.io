@@ -6,10 +6,17 @@
     <description>Recent content on محمدسجاد عبداللهی</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>fa</language>
-    <lastBuildDate>Thu, 12 Sep 2024 11:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 14:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>چطوری پروژه رو مطمئن شروع کنیم؟</title>
+      <title>آموزش راه‌اندازی سرویس DNS تحریم شکن مشابه شکن</title>
+      <link>https://sajadabdollahi.ir/posts/bypass-sanctions/</link>
+      <pubDate>Sat, 14 Sep 2024 14:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/posts/bypass-sanctions/</guid>
+      <description>آموزش راه‌اندازی سرویس تحریم شکن اختصاصی</description>
+    </item>
+    <item>
+      <title>چطوری پروژه نرم‌افزاری رو مطمئن شروع کنیم؟</title>
       <link>https://sajadabdollahi.ir/posts/tracer-bullets/</link>
       <pubDate>Thu, 12 Sep 2024 11:00:00 -0500</pubDate>
       <guid>https://sajadabdollahi.ir/posts/tracer-bullets/</guid>
@@ -22,6 +29,16 @@
       <guid>https://sajadabdollahi.ir/posts/etc-principle/</guid>
       <description>&lt;p&gt;طراحی یکی از جنبه‌های کلیدی و جذاب در دنیای فناوری و هنر است. دیگه همه جا میتونین مطالبی پیدا کنین راجب معماری و طراحی نرم افزار، اما توی این مطلب میخوام اصلی رو بگم که خیلی از از اصول دیگه از اون مشتق میشن.&lt;/p&gt;
 &lt;p&gt;بیاین ابتدا به یه موضوع مهم بپردازیم: هدف از داشتن یه طراحی خوب چیست؟ بنظر من طراحی خوب چیزی هست که راحت بشه تغییرش داد و در برابر نیاز‌های مختلف کسب و کار انعطاف پذیر باشه.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>درباره من</title>
+      <link>https://sajadabdollahi.ir/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sajadabdollahi.ir/about/</guid>
+      <description>&lt;p&gt;سلام&lt;/p&gt;
+&lt;p&gt;من سجادم و اینجا بلاگ شخصی منه،
+به &lt;strong&gt;تکنولوژی&lt;/strong&gt; به صورت جنرال‌تر کار‌های فنی علاقه دارم و از سال ۱۳۹۸ دارم توی حوزه تک کار می‌کنم. ابزار‌ها و زبان‌های زیادی رو از سر کنجکاوی تست کردم تا ببینم چطوری کار میکنن. توی چندتاشون هم قضیه خوب پیشرفت و با هم کنار اومدیم.&lt;/p&gt;
+&lt;p&gt;این بلاگ رو ساختم تا چیزایی که توی مسیرم یاد میگیرم رو به اشتراک بزارم و همینطور یه جایی لازم داشتم که نوت‌هایی که مینویسم بمونه و بعدا مرور کنم. &lt;strong&gt;چرا بلاگ؟&lt;/strong&gt; تا الان فهمیدم بهترین جا بلاگه، قبلا از توییتر و لینکدین استفاده کردم ولی خب مالی نبودن چون بعد یه مدت دسترسی بهشون خیلی سخت می‌شد. برای همین این بار با بلاگ وارد صحنه شدم.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
