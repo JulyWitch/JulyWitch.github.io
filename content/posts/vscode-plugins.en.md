@@ -7,7 +7,7 @@ showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Add more functionalities to your VS Code"
 disableHLJS: true # to disable highlightjs
 disableShare: false

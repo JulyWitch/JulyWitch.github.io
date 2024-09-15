@@ -11,7 +11,7 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 disableHLJS: false
 disableShare: false
 hideSummary: false

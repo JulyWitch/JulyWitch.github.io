@@ -7,7 +7,7 @@ showToc: true
 TocOpen: true
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "آموزش راه‌اندازی سرویس تحریم شکن اختصاصی"
 disableHLJS: true
 disableShare: false

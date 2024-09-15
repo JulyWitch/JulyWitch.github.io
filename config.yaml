@@ -20,6 +20,7 @@ params:
   keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi", "July Witch", JulyWitch]
   author: Sajad
   DateFormat: "January 2, 2006"
+  comments: true
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -29,7 +30,6 @@ params:
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
   hidemeta: false
   hideSummary: false
   showtoc: true
