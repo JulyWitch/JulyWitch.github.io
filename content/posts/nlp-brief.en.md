@@ -1,27 +1,24 @@
 ---
-title: "NLP basics"
+title: NLP basics
 date: 2017-03-02T12:00:00-05:00
-tags: ["nlp", "natural-language-processing", "machine-learning", "cheatsheet"]
-author: "Sajad"
+tags:
+  - nlp
+  - natural-language-processing
+  - machine-learning
+  - cheatsheet
+author: Sajad
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
-# description: "Add more functionalities to your VS Code"
-disableHLJS: true # to disable highlightjs
-disableShare: false
 disableHLJS: false
+disableShare: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-# cover:
-#     image: "/images/posts/vscode-plugins/vscode.png" # image path/url
-#     alt: "VS Code" # alt text
-#     relative: false # when using page bundles set this to true
-#     hidden: false # only hide on current single page
 ---
 
 This guide provides an overview of text classification, exploring essential methods such as Naive Bayes, Logistic Regression, and Hidden Markov Models (HMMs). We’ll also cover critical concepts like n-gram models, embedding methods like TF-IDF and Word2Vec, and evaluation metrics including precision, recall, and F-measure. Whether you’re a beginner seeking to grasp the basics or an experienced practitioner looking to refine your skills, this guide will equip you with the knowledge to effectively tackle text classification tasks.

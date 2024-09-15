@@ -86,7 +86,7 @@ languages:
     title: محمدسجاد عبداللهی
     menu:
       main:
-        - name: "پست ها"
+        - name: "پست‌ها"
           url: posts
         - name: جستجو
           url: search

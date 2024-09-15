@@ -1,11 +1,15 @@
 ---
-title: چطوری پروژه رو مطمئن شروع کنیم؟
+title: چطوری پروژه نرم‌افزاری رو مطمئن شروع کنیم؟
 description: راهکاری برای بالا بردن دقت در پروژه جدیدتان
 date: 2024-09-12T11:00:00-05:00
-tags: ["آموزشی", "برنامه‌نویسی", "آموزش نرم‌افزار"]
+tags:
+  - آموزشی
+  - برنامه‌نویسی
+  - آموزش
+  - نرم‌افزار
 author: Sajad
 showToc: true
-TocOpen: false
+TocOpen: true
 draft: false
 hidemeta: false
 comments: false
@@ -17,10 +21,10 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/images/posts/tracer-bullet.jpeg"
-    alt: "ETC" # alt text
-    caption: ""
-    relative: false
+  image: /images/posts/tracer-bullet.jpeg
+  alt: ETC
+  caption: ""
+  relative: false
 ---
 پروژه‌های نرم‌افزاری کلاً غیرقابل پیش‌بینی هستن و آینده‌شون هم بیشتر اوقات نامعلومه. شما امروز یه کدی می‌زنید که شاید فردا نیاز باشه دوباره تغییرش بدید. همینطور محیطی که توش دارید برنامه‌نویسی می‌کنید (Env) هم از اول پروژه تا پایان پروژه احتمالاً کلی تغییر لازم داره؛ از ورژن کتابخونه‌ها و ابزارها گرفته تا زیرساخت‌ها.
 
