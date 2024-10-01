@@ -6,14 +6,12 @@ author: "Sajad"
 showToc: true
 TocOpen: true
 draft: false
-hidemeta: false
 comments: true
 description: "آموزش راه‌اندازی سرویس تحریم شکن اختصاصی"
 disableHLJS: true
 disableShare: false
 disableHLJS: false
 hideSummary: false
-searchHidden: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true

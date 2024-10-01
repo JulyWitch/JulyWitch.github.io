@@ -7,7 +7,7 @@ enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-googleAnalytics: UA-123-45
+googleAnalytics: G-YJFPSE4ZX5
 defaultContentLanguage: "fa"
 minify:
   disableXML: true
@@ -17,7 +17,16 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: "Sajad Abdollahi"
   description: "Sajad's Personal Web Page"
-  keywords: [Blog, Portfolio, Sajad, Abdollahi, "Sajad Abdollahi", "July Witch", JulyWitch]
+  keywords:
+    [
+      Blog,
+      Portfolio,
+      Sajad,
+      Abdollahi,
+      "Sajad Abdollahi",
+      "July Witch",
+      JulyWitch,
+    ]
   author: Sajad
   DateFormat: "January 2, 2006"
   comments: true
@@ -107,15 +116,15 @@ languages:
           url: search
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON
 
 taxonomies:
-    category: categories
-    tag: tags
-    series: series
+  category: categories
+  tag: tags
+  series: series
 
 sitemap:
   changefreq: daily
