@@ -1,6 +1,5 @@
 baseURL: "https://sajadabdollahi.ir"
 title: "Sajad Abdollahi"
-paginate: 5
 theme: ["PaperMod"]
 
 enableRobotsTXT: true
@@ -12,6 +11,9 @@ defaultContentLanguage: "fa"
 minify:
   disableXML: true
   minifyOutput: true
+
+pagination:
+  pagerSize: 10
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
