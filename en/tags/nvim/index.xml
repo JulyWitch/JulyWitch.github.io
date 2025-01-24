@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nvim on Sajad Abdollahi</title>
+    <link>https://sajadabdollahi.ir/en/tags/nvim/</link>
+    <description>Recent content in Nvim on Sajad Abdollahi</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jan 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://sajadabdollahi.ir/en/tags/nvim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Ditched Modern IDEs for Neovim (And What It Taught Me About Coding)</title>
+      <link>https://sajadabdollahi.ir/en/posts/neovim-experience/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/posts/neovim-experience/</guid>
+      <description>How did uninstalling vscode and installing neovim go</description>
+    </item>
+  </channel>
+</rss>
