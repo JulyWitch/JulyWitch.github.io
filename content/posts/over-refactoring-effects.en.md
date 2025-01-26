@@ -1,5 +1,5 @@
 ---
-title: The Over-Refactoring Trap, A Guide On Where To Refactor And When To Stop
+title: "The Over-Refactoring Trap: When to Refactor and When to Stop"
 date: 2025-01-25T12:00:00-05:00
 tags:
   - refactor
