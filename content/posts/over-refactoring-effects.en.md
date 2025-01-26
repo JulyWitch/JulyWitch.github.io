@@ -54,7 +54,8 @@ The actual problem wasn’t how I wrote the `PhoneNumberInput` or how I abstract
 
 At the start of a product, everything is easy, and Our abstractions seem logical and elegant. **Everything Makes Sense**.
 
-But as the business grows, things change,.
+But as the business grows, things change.
+
 PM, testers, and client feedback start shaping the product,
 pushing it beyond the limits you unintentionally set with your refactoring.
 
