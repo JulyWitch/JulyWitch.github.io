@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 22 Jan 2025 12:00:00 -0500</lastBuildDate>
     <atom:link href="https://sajadabdollahi.ir/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Dry vs Lob</title>
+      <link>https://sajadabdollahi.ir/en/tags/dry-vs-lob/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/tags/dry-vs-lob/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Neovim</title>
       <link>https://sajadabdollahi.ir/en/tags/neovim/</link>
       <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
@@ -27,6 +34,27 @@
       <link>https://sajadabdollahi.ir/en/tags/nvim/</link>
       <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
       <guid>https://sajadabdollahi.ir/en/tags/nvim/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Over-Refactor</title>
+      <link>https://sajadabdollahi.ir/en/tags/over-refactor/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/tags/over-refactor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Refactor</title>
+      <link>https://sajadabdollahi.ir/en/tags/refactor/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/tags/refactor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Refactor-Hell</title>
+      <link>https://sajadabdollahi.ir/en/tags/refactor-hell/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/tags/refactor-hell/</guid>
       <description></description>
     </item>
     <item>

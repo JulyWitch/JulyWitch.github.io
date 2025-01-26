@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Refactor on Sajad Abdollahi</title>
+    <link>https://sajadabdollahi.ir/en/tags/refactor/</link>
+    <description>Recent content in Refactor on Sajad Abdollahi</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Jan 2025 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://sajadabdollahi.ir/en/tags/refactor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Over-Refactoring Trap, A Guide On Where To Refactor And When To Stop</title>
+      <link>https://sajadabdollahi.ir/en/posts/over-refactoring-effects/</link>
+      <pubDate>Wed, 22 Jan 2025 12:00:00 -0500</pubDate>
+      <guid>https://sajadabdollahi.ir/en/posts/over-refactoring-effects/</guid>
+      <description>&lt;p&gt;In the early days of my career, I was tasked with building a simple social media mobile app.
+I developed the application to MVP version, and along the way, I refactored every single thing with the intention
+of acheiveing &amp;ldquo;clean code&amp;rdquo;.
+I was obsessed with DRY principle and created countless reusable code blocks, all to avoid rewriting the same code.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;d already made my first mistake&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Too much refactoring doesn&amp;rsquo;t make the code cleaner, It just makes it harder, hard to navigate, hard to change and hard to understand.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
