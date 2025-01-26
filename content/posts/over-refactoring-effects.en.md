@@ -105,7 +105,7 @@ Hard truths I learned:
 
 My rules for refactoring are pretty simple
 
-- The code block is duplicated at least 3 times
+- The code block is repeated enough
 - The code block and what it does is atomic
 - It is a well defined task
 
