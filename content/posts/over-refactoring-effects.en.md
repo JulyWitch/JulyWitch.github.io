@@ -26,8 +26,8 @@ cover:
   hidden: false
 ---
 
-In the early days of my career, I was tasked with building a simple social media mobile app.
-I developed the application to MVP version, and along the way, I refactored every single thing with the intention
+In the early days of my career (around 5 years ago), I was tasked with building a simple social media mobile app in Flutter.
+I developed the application to MVP version, and along the way, I refactored every single widget with the intention
 of acheiveing "clean code".
 I was obsessed with DRY principle and created countless reusable code blocks, all to avoid rewriting the same code.
 
@@ -38,17 +38,32 @@ But I'd already made my first mistake
 ### The Consequences
 
 A few weeks later, the consequences hit hard. A tester reported a bug in phone number input of login page,
-I was confident in my "clean" codebase, I jumped in, fixed the bug in my reusable PhoneNumberInput component,
+I was confident in my "clean" codebase, I jumped in, fixed the bug in my reusable `PhoneNumberInput` component,
 tested the login page, and pushed the update.
 
 But then the chaos began,
 
-I was using `PhoneNumberInput` on both login page and profile page,
-Fixing the bug in login page triggered a domino effect and introduced a new bug in profile page.
+I was using `PhoneNumberInput` UI component on a handful number of pages, login page, profile page, add user page and invite page,
+Initially it meant to be just a simple input but
+fixing the bug in login page triggered a domino effect and introduced a new bug in profile page. As the time passed,
+I kept adding functionalities to the simple input until it became a big chunk of logic and state-management and UI.
+
+```jsx
+
+function PhoneNumberInput({ initialValue, checkUniqueness, countriesList, checkIcon, debounceDuration, ...}) {}
+
+```
+
+Suddenly I saw myself taking care of a big component that is not abstract anymore.
+I admit it, I was wrong and in a rapid develoment to reach to the deadline,
+ant there was no time for breaking countless reusable but complicated and error prone components.
+
+---
 
 Funny how it gets you into an infinite loop of debugging and fixing. The tasks that were meant to take half an hour now take a full day.
 
 The actual problem wasn’t how I wrote the `PhoneNumberInput` or how I abstracted it. The problem was its very existence.
+I refactored the wrong component.
 
 ### The Reality of Abstractions
 
@@ -90,8 +105,9 @@ Hard truths I learned:
 
 My rules for refactoring are pretty simple
 
-- The code block is duplicated +3 times
-- The code block and what it does is atomic enough and does a well defined task
+- The code block is duplicated at least 3 times
+- The code block and what it does is atomic
+- It is a well defined task
 
 ### When to stop
 
