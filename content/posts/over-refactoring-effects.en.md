@@ -100,4 +100,4 @@ My rules for refactoring are pretty simple
 - **The lazy programmer mindset:** Refactoring 3 blocks of code takes more time than changing them one by one, So why even bother?
 - **Adding more params:** If you find yourself adding new params to your already refactored code block, It's time to rethink your approach
 
-What's your experience with over-refactoring? Have you ever faced such a codebase?
+What’s your experience with over-refactoring? Have you ever encountered a codebase like this?
