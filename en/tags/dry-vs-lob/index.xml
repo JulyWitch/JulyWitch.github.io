@@ -13,13 +13,11 @@
       <link>https://sajadabdollahi.ir/en/posts/over-refactoring-effects/</link>
       <pubDate>Sat, 25 Jan 2025 12:00:00 -0500</pubDate>
       <guid>https://sajadabdollahi.ir/en/posts/over-refactoring-effects/</guid>
-      <description>&lt;p&gt;In the early days of my career, I was tasked with building a simple social media mobile app.
-I developed the application to MVP version, and along the way, I refactored every single thing with the intention
+      <description>&lt;p&gt;In the early days of my career (around 5 years ago), I was tasked with building a simple social media mobile app in Flutter.
+I developed the application to MVP version, and along the way, I refactored every single widget with the intention
 of acheiveing &amp;ldquo;clean code&amp;rdquo;.
 I was obsessed with DRY principle and created countless reusable code blocks, all to avoid rewriting the same code.&lt;/p&gt;
-&lt;p&gt;But I&amp;rsquo;d already made my first mistake&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Too much refactoring doesn&amp;rsquo;t make the code cleaner, It just makes it harder, hard to navigate, hard to change and hard to understand.&lt;/p&gt;</description>
+&lt;p&gt;But I&amp;rsquo;d already made my first mistake&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
