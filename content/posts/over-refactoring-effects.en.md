@@ -26,6 +26,10 @@ cover:
   hidden: false
 ---
 
+**Disclaimer:** This post is based on my personal opinions and experiences,
+and I might be wrong. Your perspective or experience might differ, and I’m open to learning from constructive feedback and discussion.
+
+
 In the early days of my career (around 5 years ago), I was tasked with building a simple social media mobile app in Flutter.
 I developed the application to MVP version, and along the way, I refactored every single widget with the intention
 of acheiveing "clean code".
